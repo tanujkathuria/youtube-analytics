@@ -33,3 +33,5 @@ build/
 .vscode/
 ###ignre the node_modules folder 
 !**/src/frontend/node_modules
+##ignore the large file 
+**/src/main/resources/youtube_trending_data.csv
